@@ -1,0 +1,53 @@
+
+<meta name="author" content="Rodrigo Balbino Lins- 1700028">
+<meta name="author" content="Hugo Leonardo - 1411272">
+<meta name="author" content="Leonardo da Silva Maciel - 1700655">
+
+<meta charset="UTF-8">
+
+<p><strong>1) Da lista de tecnologias abaixo, aponte qual é executada no cliente e qual é executada no servidor </strong></p>
+<table border="1">
+	<tr><th>Tecnologia</th><th>Cliente</th><th>Servidor</th></tr>
+	<tr><td>Apache</td><td>&nbsp;</td><td>x</td></tr>
+	<tr><td>JavaScript</td><td>x</td><td>&nbsp;</td></tr>
+	<tr><td>Tomcat</td><td>&nbsp;</td><td>x</td></tr>
+	<tr><td>Java</td><td>x</td><td>&nbsp;</td></tr>
+	<tr><td>HTML</td><td>x</td><td>&nbsp;</td></tr>
+	<tr><td>PHP</td><td>x</td><td>&nbsp;</td></tr>
+	<tr><td>Apache</td><td>&nbsp;</td><td>x</td></tr>
+	<tr><td>MySQL</td><td>&nbsp;</td><td>x</td></tr>
+	<tr><td>XHTML</td><td>x</td><td>&nbsp;</td></tr>
+	<tr><td>MongoDB</td><td>&nbsp;</td><td>x</td></tr>
+	<tr><td>CSS</td><td>x</td><td>&nbsp;</td></tr>
+</table>
+
+<p><strong>2) Aponte as regiões da URL <code>http://www.impacta.com.br/eventos/default.php</code></strong></p>
+
+<p>RESPOSTA:Protocolo: http://, Dominio: www.impacta.com.br, Diretorio: eventos, Recurso: default.php </p>
+
+<p><strong>3) Quais outros protocolos de comunicação para troca de mensagens via internet existem? Pesquise e cite 3 exemplos, descrevendo sua função e aplicação.</strong></p>
+<ul>
+	<li>
+		<p>
+			PROTOCOLO 1:O DHCP, Dynamic Host Configuration Protocol (protocolo de configuração dinâmica de host), é um protocolo de serviço TCP/IP que oferece configuração dinâmica de terminais
+		</p>
+	</li>
+	<li>
+		<p>
+			PROTOCOLO 2:O Post Office Protocol (termo em inglês que, traduzido, significa "Protocolo dos correios"), ou POP3, é um protocolo utilizado no acesso remoto a uma caixa de correio eletrônico
+		</p>
+	</li>
+	<li>
+		<p>
+			PROTOCOLO 3:Secure Shell (SSH) é um protocolo de rede criptográfico para operação de serviços de rede de forma segura sobre uma rede insegura
+		</p>
+	</li>
+</ul>
+
+<p><strong>4) Explore os sites de hospedagem do  (<a href="http://www.uolhost.uol.com.br/" target="_blank">http://www.uolhost.uol.com.br/</a>) e da LOCAWEB (<a href="https://www.locaweb.com.br" target="_blank">https://www.locaweb.com.br</a>), veja os serviços que eles oferecem. Qual desses serviços (em cada site) seria mais adequado para o seu site de desenvolvedor (páginas estáticas) e para a sua aplicação web?</strong></p>
+
+<p>RESPOSTA: O site (http://www.uolhost.uol.com.br/) e o (https://www.locaweb.com.br/default.html) oferecem o serviço de hospedagem de site oque seria ideal para uma pagina estatica, ja para aplicação webseria ideal o serviço de cloud computing  </p>
+
+<p><strong>5) Pequisem sobre as limitações do HTTP 1.1 e como o HTTP2 vence essa limitação, cite 2 dessas limitações e suas respostas no HTTP2</strong></p>
+
+<p>RESPOSTA:Limitações do http1: Por padrão, HTTP as solicitações são emitidas sequencialmente. A próxima solicitação só é emitida depois que recebeu a resposta para a solicitação atual. Como eles são afetados pelas latências de rede e as limitações de largura de banda, isso pode resultar em atrasos significativos antes que a próxima solicitação é vista pelo servidor. Hoje, cada proxy HTTP/1.1-compatível e servidor devem apoiar o pipelining, embora muitos têm limitações na prática: uma razão significativa, nenhum navegador moderno ativa esse recurso por padrão. Ja o Http2 a semântica do protocolo não será afetada com essa nova versão, ou seja, serão mantidos os cabeçalhos HTTP, os valores e formatos de uso. As melhorias significativas são na performance de transporte das informações além de uma latência menor e maior rendimento.</p>
