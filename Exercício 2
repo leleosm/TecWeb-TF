@@ -1,0 +1,150 @@
+<meta name="author" content="Leonardo da Silva Maciel - 1700655">
+
+<meta charset="UTF-8">
+
+<!DOCTYPE html>
+<html>
+
+<head>
+       <title>Aula 2 Atividade 1</title>
+</head>
+</body>
+<ul>
+  <li>Fechar contrato</li>
+  <li>
+    <li>Análise de sistemas</li>
+	<ol>
+	  <li>Avaliação da empresa</li>
+	    <ol>
+	       <li>1Entrevista com funcionários</li>
+		   <li>Presquisa  de documentação da empresa</li>
+		</ol>
+        <li>Programação</li>
+        <li>Aprovação do projeto</li>
+    </ol>
+<li>Treinamento dos usuários.</li>
+</ul>
+</body>
+</html>
+
+----------------------------------
+<!DOCTYPE html>
+<html>
+
+<head>
+	    <title>Aul2 Atividade 2</title>
+</head>
+<body>
+<ol>
+    	<li>Velozes e Furiosos</li>
+	    <li>Meu primeiro amor.</li>
+	    <li>Uma linda mulher.</li>
+</ol> 
+<ol start = "10">
+	<li>Exterminador do futuro II.</li>
+	<li>De volta para o futuro I,II, III.</li>
+	<li>Indiana Jones.</li>
+</ol>
+<ol start = "20">
+  <li>Sexta feira 13.</li>
+  <li>A hora do pesadelo.</li>
+</ol>
+</body>
+</html>
+
+-------------------------------------------------
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Aula 2 Atividade 3</title>
+</head>
+<body>
+<table border="1">
+  <tr>
+    <td colspan="6"><center><strong>Time Table</strong></center></td>
+  </tr>
+  <tr>
+    <td rowspan = "6"><strong>Hours</strong></td>
+    <td>Mon</td>
+    <td>Tue</td>
+    <td>Wed</td>
+    <td>Thu</td>
+    <td>Fri</td>
+  </tr>
+  <tr>
+    <td>Science</td>
+    <td>Maths</td>
+    <td>Science</td>
+    <td>Maths</td>
+    <td>Arts</td>
+  </tr>
+  <tr>
+    <td>Social</td>
+    <td>History</td>
+    <td>English</td>
+    <td>Social</td>
+    <td>Sports</td>
+  </tr>
+  <tr>
+    <td colspan = "5"><center><strong>Lunch</strong></center></td>
+  </tr>
+  <tr>
+    <td>Science</td>
+    <td>Maths</td>
+    <td>Science</td>
+    <td>Maths</td>
+    <td rowspan = "2">Project</td>
+  </tr>
+  <tr>
+    <td>Social</td>
+    <td>History</td>
+    <td>English</td>
+    <td>Social</td>
+  </tr>
+</table>
+</body>
+</html>
+------------------------------------------
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Aulda 2 Atividade 4</title>
+</head>
+<body>
+
+<p><div style="color:blue">Quando eu for, um dia desses,
+<br/><div style="color:red">Poeira ou folha levada 
+<br/><div style="color:blue">No vento da madrugada,
+<br/><div style="color:red">Serei um pouco do nada
+<br/><div style="color:blue">Invisível, delicioso</p></div>
+
+<p>Que faz com que o teu ar 
+<br/>Pareça mais um olhar, 
+<br/><div style="color:green">Suave mistério amoroso, 
+<br/>Cidade de meu andar </div>
+<br/>(Deste já tão longo andar!) 
+<br/>E talvez de meu repouso...</p>
+
+</body>
+</html>
+-------------------------------------------
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Aula 2 Atividade 5</title>
+<head>
+<body>
+
+<br/>Durante a nossa vida:
+<br/>Conhecemos pessoas que <strong>vêm</strong> e que <strong>ficam</strong>,
+<br/>Outras que <em>vêm e passam.</em>
+<br/>Existem aquelas que,
+<br/>Vêm, ficam e depois de <strong>algum tempo</strong> se vão.
+<br/>Mas existem aquelas que <strong>vêm e se vão</strong> com uma enorme vontade de ficar...
+
+<br/><br/><strong>(Charles Chaplin)</strong>
+
+</body>
+</html>
